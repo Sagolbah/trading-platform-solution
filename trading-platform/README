@@ -1,0 +1,5 @@
+How to build and install image:
+
+docker build -t trading-platform .
+docker run -p 8080:8080 trading-platform
+
